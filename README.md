@@ -30,3 +30,21 @@ The dataset contains 482 rows and has following 14 Data features -
 
 - Pre-Processed Data
 <img src= "assets/pre-processed_data.PNG">
+
+## Installation 
+- Cloning the Repository: 
+
+        git clone https://github.com/DishaGrover16/Hunger-Crisis
+        
+- Entering the directory: 
+
+        cd Hunger-Crisis
+        
+- Setting up the Python Environment with dependencies:
+
+        pip install -r requirements.txt
+
+- Running the web app:
+
+        streamlit run main.py
+
