@@ -23,3 +23,10 @@ The dataset contains 482 rows and has following 14 Data features -
 - How many beverages would you consume in a eatery?(Numeric)
 - How many pieces of meat you are likely to consume?(Numeric)
 - How much quantity of sea food would you prefer in hotels?(Numeric)
+
+### Visualising the dataframes
+- Raw Data
+<img src= "assets/raw_data.PNG">
+
+- Pre-Processed Data
+<img src= "assets/pre-processed_data.PNG">
