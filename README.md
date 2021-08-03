@@ -51,4 +51,6 @@ The dataset contains 482 rows and has following 14 Data features -
 ## Demonstration
 ![](assets/demo.gif)
 
+<hr>
+This project has been developed by <a href="https://github.com/tissyamalik">Tissya Malik </a>and <a href="https://github.com/DishaGrover16">Disha Grover</a>.
 
