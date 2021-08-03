@@ -47,4 +47,8 @@ The dataset contains 482 rows and has following 14 Data features -
 - Running the web app:
 
         streamlit run main.py
+        
+## Demonstration
+![](assets/demo.gif)
+
 
