@@ -51,6 +51,8 @@ The dataset contains 482 rows and has following 14 Data features -
 ## Demonstration
 ![](assets/demo.gif)
 
+Check out the notebook <a href="https://nbviewer.jupyter.org/github/DishaGrover16/Hunger-Crisis/blob/main/Notebook/Hunger_crisis_.ipynb">here</a>.
+
 <hr>
 This project has been developed by <a href="https://github.com/tissyamalik">Tissya Malik </a>and <a href="https://github.com/DishaGrover16">Disha Grover</a>.
 
