@@ -16,9 +16,9 @@ The dataset contains 482 rows and has following 14 Data features -
 - Height(in cm) (Numeric)
 - Weight(in kgs) (Numeric)
 - Health Issues(if any)(Catagorical)
-- How many servinngs of rice do you eat at a restaurant (Numeric)
+- How many servings of rice do you eat at a restaurant (Numeric)
 - How many bowls of vegetables you eat(Numeric)
-- How many slices of pizzaould you prefer in restaurants How many burgers would you (Numeric)
+- How many slices of pizza would you prefer in restaurants
 - How many burgers would you prefer(Numeric)
 - How many beverages would you consume in a eatery?(Numeric)
 - How many pieces of meat you are likely to consume?(Numeric)
