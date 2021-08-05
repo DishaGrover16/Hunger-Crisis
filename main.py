@@ -4,6 +4,7 @@ import pandas as pd
 import sklearn 
 import streamlit as st
 from sklearn.svm import SVR
+import math 
 
 st.title('Hunger Crisis')
 st.sidebar.subheader('Input Feature')
@@ -60,7 +61,16 @@ if order=='Sea Food':
     regressor.fit(X, y_sea_food)  
 if st.button('Predict'):
     #st.write(ipt)
-    result=int(regressor.predict([ipt]))
-    st.info(f'You are advised to order "{result}" servings of this food')
-#except:
+    result=int(math.ceil(regressor.predict([ipt])))
+    if order=='Rice': 
+        st.info(f'You are advised to order "{result}" servings of Rice')
+    if order=='Vegetables' or order=='Meat' or order=='Sea Food':
+        st.info(f'You are advised to order "{result}" bowls of {order}')
+    if order=='Pizza':
+        st.info(f'You are advised to order "{result}" slices of Pizza')
+    if order=='Burgers':
+        st.info(f'You are advised to order "{result}" Burgers')
+    if order=='Beverages':
+        st.info(f'You are advised to order "{result}" glasses of Beverages')
+    #except:
     #st.error('Sum unexpected error has ocurred. Please try again.')
