@@ -2,10 +2,10 @@
 Food wastage is a massive problem. About **40%** of the food produced is wasted every year. One of the most common occurrences leading to food wastage is due to overflowing plates and food that ultimately goes into trash cans, be it buffet spreads or individual orders.
 
 ## Proposed Solution
-A regression modal predicting how much a particular person should consume according to his daily food consuming habits and data features like age, height, weight etc in order to determine the qauntity of food required by the person so that food is not wasted at eateries and cafe's.
+A regression modal predicting how much a particular person should consume according to his daily food consuming habits and data features like age, height, weight etc in order to determine the quantity of food required by the person so that food is not wasted at eateries and cafe's.
 
 ## Data-set Description
-The dataset contains information about daily food quantities required by a person and physical parameters of that person.
+The dataset contains information about daily food quantity required by a person and physical parameters of that person.
 Data was collected via Google forms.
 The dataset contains 482 rows and has following 14 Data features -
 
